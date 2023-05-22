@@ -1,0 +1,6 @@
+numpy>=1.16.5
+scipy==1.7.3
+pandas==2.0.1
+matplotlib==3.5.1
+pycodestyle==2.10.0
+pydocstyle==6.3.0
